@@ -1,8 +1,8 @@
 // @ts-nocheck
 import "./App.css";
-import "./component/mind-core/kityminder.core.css";
+import "kityminder-core/dist/kityminder.core.css";
 import "kity";
-import "./component/mind-core/kityminder.core";
+import "kityminder-core";
 import { useEffect, useRef, useState } from "react";
 import React from "react";
 import { OptionsType } from "./edit.d";
