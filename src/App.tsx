@@ -9,7 +9,7 @@ import { OptionsType } from "./edit.d";
 import { Button, Col, Dropdown, Menu, Row, Select, Space, Input } from "antd";
 import { DownOutlined } from "@ant-design/icons";
 import { saveAs } from "file-saver";
-import EditNode from "./component/Editor/index";
+import EditNode from "./component/Editor/index.tsx";
 
 const { Search } = Input;
 

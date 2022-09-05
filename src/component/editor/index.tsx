@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React, { useState, useEffect, useRef, useMemo } from "react";
 import { getKeyCode, isInputValue, isIntendToInput } from "./utils";
-import InputBox from "./InputBox";
+import InputBox from "./InputBox.tsx";
 import "./index.css";
 
 type PropsType = {
