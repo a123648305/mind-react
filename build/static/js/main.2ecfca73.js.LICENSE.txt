@@ -1,0 +1,81 @@
+/*!
+      **  Thenable -- Embeddable Minimum Strictly-Compliant Promises/A+ 1.1.1 Thenable
+      **  Copyright (c) 2013-2014 Ralf S. Engelschall <http://engelschall.com>
+      **  Licensed under The MIT License <http://opensource.org/licenses/MIT>
+      **  Source-Code distributed on <http://github.com/rse/thenable>
+      */
+
+/*!
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * ====================================================
+ * Kity Minder Core - v1.4.49 - 2018-04-02
+ * https://github.com/fex-team/kityminder-core
+ * GitHub: https://github.com/fex-team/kityminder-core.git 
+ * Copyright (c) 2018 Baidu FEX; Licensed BSD-3-Clause
+ * ====================================================
+ */
+
+/*!
+ * ====================================================
+ * kity - v2.0.4 - 2016-08-22
+ * https://github.com/fex-team/kity
+ * GitHub: https://github.com/fex-team/kity.git 
+ * Copyright (c) 2016 Baidu FEX; Licensed BSD
+ * ====================================================
+ */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
